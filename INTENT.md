@@ -1,0 +1,6 @@
+- [ ] My intent is to build neutral open source infrastructure.
+- [ ] I will use government resources as best as possible.
+- [ ] There's a lot of weird stuff with economic things, maybe later?
+- [ ] This feels like a church.
+- [ ] This feels like a militia.
+- [ ] I don't want to do a job, I want to do a good job.
